@@ -1,0 +1,1 @@
+// Archivo limpio. Se eliminó el fetch de './components/navbar.html' para evitar errores de carga innecesarios. 
